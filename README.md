@@ -21,4 +21,4 @@ DM my LinkedIn profile and send'Scale Up' for the how and why.
 <a href="https://linkedin/in/mahdibeee/" target="blank"><img align="center" src="https://github.com/mahdibeee/mahdibeee/blob/main/linkedin.svg" height="50" /></a>
 <a href="https://instagram.com/mahdibeee" target="blank"><img align="center" src="https://github.com/mahdibeee/mahdibeee/blob/main/instagram.svg" height="50" /></a>
 <a href="https://twitter.com/mahdibeee?lang=en" target="blank"><img align="center" src="https://github.com/mahdibeee/mahdibeee/blob/main/twitter.svg" height="50" /></a>
-<a href="https://substack.com/@futurix" target="blank"><img align="center" src="https://github.com/mahdibeee/mahdibeee/blob/main/53023767.png" height="60" /></a>
+<a href="https://substack.com/@futurix" target="blank"><img align="center" src="https://github.com/mahdibeee/mahdibeee/blob/main/substack-icon.png" height="40" /></a>
