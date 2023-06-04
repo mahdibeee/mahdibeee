@@ -3,7 +3,7 @@
 I'm an AI/ML enthusiast who is passionate about how AI/ML can reshape the future of business. Therefore, I started my account on GitHub to start working on my projects and get to work more closely and hands on with some AI projects. 
 
 <!--
-**mahdibeee/mahdibeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahdibeee/mahdibeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ DM my LinkedIn profile and send'Scale Up' for the how and why.
 - 🧠  I'm learning Machine Learning with Python, PyTorch and Scikit-Learn
 - 💬 Ask me about ...
 - 📫 How to reach me: Best way to reach me is though my LinkedIn profile.
--->
+
